@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👨‍💻 Aman | Code9Aman
+“Code and Coffee”
 
-<!--
-**Code9Aman/Code9Aman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧠 About Me
+I write code,play games and hike mountains.
+- 🎓 Computer Science Engineer
+- MERN stack, PYTHON, MYSQL.
+- 🤖 Exploring AI, Prompt Engineering & Automation
+- Clash Royale(11.5k🏆)
+- Valorant(Peak Platinum 3)<img width="48" height="48" alt="icons8-valorant-48" src="https://github.com/user-attachments/assets/b0ec433f-88c3-437d-9971-a2e10405c415" />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+- Open Source 
+- 🧠 AI Development & Prompt Engineering
+- 🐍 Python for logic-heavy problem solving
+
+---
+
+## 🛠️ Tech Stack
+```bash
+Languages:     Python | JavaScript | TypeScript
+Backend:       Node.js | Express
+Database:      MongoDB | PostgreSQL
+Tools:         Git | GitHub | VS Code | Zapier![Uploading icons8-valorant-48.png…]()
+
+Concepts:      DSA | REST APIs | System Design | AI/ML Basics
