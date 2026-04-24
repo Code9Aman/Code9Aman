@@ -22,6 +22,6 @@ I write code,play games and hike mountains.
 Languages:     Python | JavaScript | TypeScript
 Backend:       Node.js | Express
 Database:      MongoDB | PostgreSQL
-Tools:         Git | GitHub | VS Code | Zapier![Uploading icons8-valorant-48.png…]()
+Tools:         Git | GitHub | VS Code | Zapier!
 
 Concepts:      DSA | REST APIs | System Design | AI/ML Basics
