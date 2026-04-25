@@ -1,4 +1,4 @@
-# <img width="148" height="148" alt="cypher" src="https://github.com/user-attachments/assets/a5e3aa04-37eb-40c1-9cc8-5f700b582707" /> Aman | Code9Aman
+# Aman | Code9Aman
 “Code and Coffee”
 
 🧠 About Me
